@@ -1,0 +1,10 @@
+﻿  Reading Qt configuration (C:/QT/5.15.0/msvc2019_64/bin/qmake)
+  uic QtVibrationTest.ui
+  rcc QtVibrationTest.qrc
+  moc QtVibrationTest.h
+   RCC: Warning: No resources in 'C:\Users\iboss\source\repos\QtVibrationTest\QtVibrationTest\QtVibrationTest.qrc'.
+  QtVibrationTest.cpp
+  main.cpp
+  qrc_QtVibrationTest.cpp
+  moc_QtVibrationTest.cpp
+  QtVibrationTest.vcxproj -> C:\Users\iboss\source\repos\QtVibrationTest\x64\Release\QtVibrationTest.exe
